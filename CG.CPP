@@ -20,13 +20,7 @@ rectangle(60,50,590,440);
 floodfill(61,51,15);
 settextstyle(3,0,4);
 outtextxy(120,80,"Computer Graphics Project");
-settextstyle(8,0,2);
-outtextxy(80,150,"Made by:");
-outtextxy(100,190,"Madhav ");
-outtextxy(100,215,"Maheshwar");
-outtextxy(100,240,"Mahima Kalra");
-outtextxy(100,265,"Manik");
-outtextxy(100,290,"Manish");
+
 delay(5000);
 cleardevice();
 int f[50],g[50];
